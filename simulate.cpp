@@ -1,6 +1,6 @@
 /******************************************************************************
     This simulates the Monty-Hall problem
-    Copyright (C) 2018  Kingshuk Haldar
+    Copyright (C) 2018  Kingshuk
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
